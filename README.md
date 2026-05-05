@@ -45,3 +45,5 @@ Python · pandas · scikit-learn · matplotlib · NumPy
 ## Authors
 
 Jeeva Kanna Jothimani & Jessica Okereke — University of Calgary
+Full project report available upon request.
+
